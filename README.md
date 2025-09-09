@@ -18,15 +18,24 @@ It allows you to add tasks, check them to move them to the **Tasks Done** list, 
 ## 🧰 Requirements
 
 - **Python 3.9+** (recommended)  
-- **tkinter** (included in official Python distributions)  
-
-For Linux (if necessary):  
+- **tkinter** (included in official Python distributions)
 ```bash
-# Debian / Ubuntu
-sudo apt-get install python3-tk
+  pip install customtkinter
+```
 
-# Fedora
-sudo dnf install python3-tkinter
+ ##📦 Installation
+ 
+```bash
+ # 1) Clone the repository
+git clone https://github.com/<your-username>/<your-repo>.git
 
-# Arch Linux
-sudo pacman -S tk
+# 2) Install the Python dependency
+pip install --upgrade pip
+pip install customtkinter
+```
+
+##▶️ Run the Application
+From the project root, run:
+```bash
+python app.py
+```
