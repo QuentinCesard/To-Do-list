@@ -36,5 +36,5 @@ It allows you to add tasks, check them to move them to the **Tasks Done** list, 
 ## ▶️ Run the Application
 From the project root, run:
 ```bash
-python app.py
+python to_do_list.py
 ```
