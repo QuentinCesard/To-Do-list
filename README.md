@@ -22,6 +22,7 @@ It allows you to add tasks, check them to move them to the **Tasks Done** list, 
 ```bash
   pip install customtkinter
 ```
+---
 
  ##📦 Installation
  
@@ -33,7 +34,7 @@ git clone https://github.com/<your-username>/<your-repo>.git
 pip install --upgrade pip
 pip install customtkinter
 ```
-
+---
 ##▶️ Run the Application
 From the project root, run:
 ```bash
