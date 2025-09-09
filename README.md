@@ -1,4 +1,4 @@
-# To-Do (CustomTkinter)
+# To-Do List based on CustomTkinter
 
 A simple **To-Do** application in Python built with **customtkinter**.  
 It allows you to add tasks, check them to move them to the **Tasks Done** list, and uncheck them to send them back to **To do**.
