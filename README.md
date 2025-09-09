@@ -11,14 +11,12 @@ It allows you to add tasks, check them to move them to the **Tasks Done** list, 
 - **To do** list with checkboxes  
 - **Tasks Done** list (checked tasks are moved here)  
 - Ability to uncheck a completed task to move it back to **To do**  
-- Simple interface (400×700) using `customtkinter`  
 
 ---
 
 ## 🧰 Requirements
 
-- **Python 3.9+** (recommended)  
-- **tkinter** (included in official Python distributions)
+- **Python 3.9+**  
 ```bash
   pip install customtkinter
 ```
@@ -27,12 +25,12 @@ It allows you to add tasks, check them to move them to the **Tasks Done** list, 
 ## 📦 Installation
  
 ```bash
- # 1) Clone the repository
-git clone https://github.com/<your-username>/<your-repo>.git
+# 1) Clone the repository
+  git clone https://github.com/<your-username>/<your-repo>.git
 
 # 2) Install the Python dependency
-pip install --upgrade pip
-pip install customtkinter
+  pip install --upgrade pip
+  pip install customtkinter
 ```
 ---
 ## ▶️ Run the Application
