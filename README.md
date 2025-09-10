@@ -25,7 +25,7 @@ It allows you to add tasks, check them to move them to the **Tasks Done** list, 
 ## 📦 Installation
  
 ```bash
-# 2) Install the Python dependency
+# Install the Python dependency
   pip install --upgrade pip
   pip install customtkinter
 ```
