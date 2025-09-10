@@ -25,9 +25,6 @@ It allows you to add tasks, check them to move them to the **Tasks Done** list, 
 ## 📦 Installation
  
 ```bash
-# 1) Clone the repository
-  git clone https://github.com/<your-username>/<your-repo>.git
-
 # 2) Install the Python dependency
   pip install --upgrade pip
   pip install customtkinter
