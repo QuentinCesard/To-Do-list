@@ -30,6 +30,13 @@ It allows you to add tasks, check them to move them to the **Tasks Done** list, 
   pip install customtkinter
 ```
 ---
+## ▶️ Run the Application
+From the project root, run:
+```bash
+python to_do_list.py
+```
+
+---
 
 ## 📝 Usage
 - Enter a task in the input field and click Add Task.
@@ -37,9 +44,3 @@ It allows you to add tasks, check them to move them to the **Tasks Done** list, 
 - Uncheck a task in Tasks Done to move it back to To do.
 - Use the delete field to remove a task by its name.
 
----
-## ▶️ Run the Application
-From the project root, run:
-```bash
-python to_do_list.py
-```
